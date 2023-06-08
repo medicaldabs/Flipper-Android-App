@@ -1,0 +1,13 @@
+├── instances
+
+│   ├── app
+
+├── components
+
+│   ├── core
+
+│   ├── bridge
+
+│   ├── feature1
+
+│   ├── feature2
